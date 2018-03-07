@@ -1,4 +1,4 @@
-gandrews/mulan_app:
+gandrews/mulan_app2:
 
   Env:
     - NR_INSTALL_SILENT: "TRUE"
